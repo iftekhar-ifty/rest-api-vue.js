@@ -22,5 +22,5 @@ That's it and happy to use.
 ```
 
 ## Features of this project
-	- [real time search]
-	- [custom pagination]
+	1.real time search
+	2.custom pagination
