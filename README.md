@@ -3,7 +3,7 @@
 ## If you install this project you can do stuff like this:
 
 
-``
+```
 1.composer update
 
 2.Migrate Database
@@ -19,8 +19,8 @@
 
 That's it and happy to use.
 
-``
+```
 
 ##Features of this project
-	-real time search
-	-custom pagination
+	-[real time search]
+	-[custom pagination]
